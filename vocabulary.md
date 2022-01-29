@@ -10,8 +10,12 @@ absurd: extremely silly; not logical and sensible
 amenable:
 will to accept
 
+annex:
+占领
+
 B
 ---
+
 bulk:
  The mass or size of something large; (the bulk of) the greater part of something
 
@@ -21,6 +25,8 @@ breed:
 
 brittle: hard but easily broken
 
+bereft of:
+w/o sth.
 
 C
 ---
@@ -78,8 +84,15 @@ curb
 contentious:
 controversial
 
+clinch:
+1. to succeed in sth.
+2. to provide answer
+
 D
 ---
+
+daunting:
+make sb. feel nervous and less confident
 
 dedicate
 1. 把…奉献给；（在书、音乐或演出的前部）题献词
@@ -103,6 +116,10 @@ disillusion: disappoint
 
 E
 ---
+
+eschew:
+to avoid sth. intentionally
+
 evict: to force someone to leave somewhere
 
 excursion: a short journey or trip, especially one taken as a leisure activity
@@ -250,6 +267,10 @@ Q
 
 R
 ---
+
+realm:
+an area of interest or activity
+
 resentment:
 bitter indignation at having been treated unfairly
 
@@ -291,7 +312,17 @@ stretch:
 stigma:
 feeling of disapproval that people have about particular illnesses or ways of behaving
 
+staple:
+basic or main; standard or regular
+
+stab:
+1. [V] to injure someone with a sharp pointed object such as a knife
+2. [N]  the act of pushing a knife into someone, or an injury caused by stabbing
+
 semantics: the meaning of words, phrases or systems
+
+scarcely:
+almost not
 
 T
 ---
@@ -305,6 +336,9 @@ U
 
 V
 ---
+
+vigorously:
+very active; determined; full of energy
 
 venturing:
 to risk to do something
