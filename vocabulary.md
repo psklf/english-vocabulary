@@ -105,6 +105,8 @@ lack of something
 
 disdain:  鄙视 不屑
 
+discern:
+to know, recognize or understand something
 discerning:
 able to show good judgement about the quality of somebody/something
 
@@ -200,6 +202,10 @@ indulge: to allow yourself to have or do something that you like, especially som
 
 incorporate:
 include something as a part of
+
+intervene:
+intervention:
+to get involved in a difficult situation to improve it
 
 J
 ---
